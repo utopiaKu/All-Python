@@ -1,0 +1,2 @@
+per = float(input("Enter the Percentage marks secured : "))
+
